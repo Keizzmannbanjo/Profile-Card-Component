@@ -13,7 +13,7 @@ body {
     height: 100vh;
     width: 100%;
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
-    background-position: top -62vh left -23vw, bottom -75vh right -15vw;
+    background-position: top -62vh left -23vw, bottom -70vh right -15vw;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     overflow: hidden;
@@ -78,7 +78,7 @@ p {
 }
 
 hr {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     color: hsl(0, 0%, 59%);
 }
 /* 
